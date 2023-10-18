@@ -8,3 +8,5 @@
         - [Declarando um component style](annotations/01-overview.md#declarando-um-component-style)
           <br/><br/>
         - [**LifeCycle**](annotations/02-lifecycle.md) 
+          -[Respondendo a um evento de lifecycle](annotations/02-lifecycle.md#respondendo-a-um-evento-de-lifecycle) 
+          -[Sequencia de eventos lifecycle](annotations/02-lifecycle.md#sequencia-de-eventos-lifecycle) 
